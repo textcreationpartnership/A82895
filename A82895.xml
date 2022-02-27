@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message of the Lords and Commons of the Parliament of England, assembled at Westminster, to his Majesty, now at his court, at Holmby-House; for a firme and well grounded peace in England, and prosecution of the affaires in Ireland. Die Jovis 1647. It is this day ordered, that this message for a firme and well grounded peace for England, and for the prosecution of the affaires in Ireland, be forthwith printed and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82895</idno>
+            <idno type="STC">Wing E1656</idno>
+            <idno type="STC">Thomason E378_20</idno>
+            <idno type="STC">ESTC R201387</idno>
+            <idno type="EEBO-CITATION">99861907</idno>
+            <idno type="PROQUEST">99861907</idno>
+            <idno type="VID">114053</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114053)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E378[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message of the Lords and Commons of the Parliament of England, assembled at Westminster, to his Majesty, now at his court, at Holmby-House; for a firme and well grounded peace in England, and prosecution of the affaires in Ireland. Die Jovis 1647. It is this day ordered, that this message for a firme and well grounded peace for England, and for the prosecution of the affaires in Ireland, be forthwith printed and published according to order of Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Duglasse.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>March 4. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Spurious"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "March 3d 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114053:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>A MESSAGE Of the <hi>LORDS</hi> and <hi>COMMONS</hi> of the Parliament of <hi>England,</hi> Aſſembled at <hi>Weſtminſter,</hi> To his Majeſty, now at his Court, at <hi>Holmby</hi>-Houſe; For a firme and well grounded Peace in <hi>England,</hi> and proſecution of the affaires in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>It is this day Ordered, that this Meſſage for a firme and well grounded Peace for <hi>England,</hi> and for the proſecution of the affaires in <hi>Ireland,</hi> be forthwith Printed and Publiſhed according to Or<g ref="char:EOLhyphen"/>der of Parliament.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Duglaſſe. March</hi> 4. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114053:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:114053:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>A Meſſage of the Lords and Com<g ref="char:EOLhyphen"/>mons, of the Parliament of <hi>England,</hi> Aſſembled at <hi>Weſtminſter,</hi> Sent to his Majeſty, for a ſafe and well grounded Peace.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſty;</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>E the Lords and Commons Aſ<g ref="char:EOLhyphen"/>ſembled in the Parliament of</hi> England, <hi>in the name and on the behalfe of the Kingdomes of</hi> England <hi>and</hi> Ireland, <hi>and the Commiſsioners of the Parliament of</hi> Scotland, <hi>in the name, and on the behalfe of the Kingdome of</hi> Scotland, <hi>Doe humbly preſent unto your Majeſty the humble deſires and Propoſitions for a ſafe and well grounded Peace, agreed upon by the Parliaments of both Kingdomes reſpectively: <g ref="char:V">Ʋ</g>nto which we doe pray your Majeſties Aſſent:
+<pb n="2" facs="tcp:114053:3"/>
+                  <!-- PDF PAGE 99 -->And that they and all ſuch Bils as ſhall be tendred to your Majeſty in purſuance of them, or any of them, may be Eſtaebliſhed and Enacted for Statutes and Acts of Parliament, by your Majeſties Royall Aſſent in the Parliaments of both Kingdomes re<g ref="char:EOLhyphen"/>ſpectively.</hi>
+            </p>
+            <p>THat Reformation of Religion, according to the Covenant, be ſetled by Act of Parliament, in ſuch maner as both Houſes have agreed, or ſhall agree upon, after conſultation had with the Aſſembly of Divines.</p>
+            <p>That the King do give his Royall Aſſent to an Act for the due obſervation of the Lords day.</p>
+            <p>And to the Bill for the ſuppreſſion of Innovations in Churches, and Chappels, in and about the Worſhip of God &amp;c.</p>
+            <p>And for the better advancement of the preaching of Gods holy Word in all parts of this Kingdome.</p>
+            <p>And to ſuch Act or Acts for raiſing of monies for the paiment and ſatisfying of the Publique Debts and Dam<g ref="char:EOLhyphen"/>mages of the Kingdome, and other publique uſes, as ſhall hereafter be agreed on by both Houſes of Parliament; And if the King doe not give his Aſſent thereunto, then it being done by both houſes of Parliament, the ſame ſhall be as valid to all intents and purpoſes, as if the Roy<g ref="char:EOLhyphen"/>all Aſſent had been given thereunto.</p>
+            <p>
+               <pb n="3" facs="tcp:114053:3"/>
+               <!-- PDF PAGE 99 -->
+That his Majeſty, according to the laudable example of His Royall Father, of happy memory, may be pleaſed to ſweare and ſigne the late ſolemne League and Cove<g ref="char:EOLhyphen"/>nant; And that an Act of Parliament be paſſed in both Kingdomes reſpectively, for enjoyning the taking therof by all the Subjects of the three Kingdoms; and the Or<g ref="char:EOLhyphen"/>dinances concerning the manner of taking the ſame in both Kingdomes, be confirmed by Acts of Parliament reſpectively, with ſuch penalties, as by mutuall advice of both Kingdomes ſhall be agreed upon.</p>
+            <p>That His Majeſty give aſſurance of His conſenting in the Parliament of <hi>Scotland,</hi> to an Act, acknowledging and ratifying the Acts of the Convention of Eſtates of <hi>Scotland,</hi> called by the Counſell and Conſervers of the Peace, and the Commiſſioners for the common burthens, and aſſembled the 22 day of June 1643. and ſeverall times continued ſince; and of the Parliament of that Kingdome ſince convened.</p>
+            <p>That the Lords and Commons in the Parliament of <hi>England</hi> aſſembled, ſhall during the ſpace of twenty yeeres from the firſt of July 1646. Arme, Traine, and Diſcipline, or cauſe to be Armed, Trained, and Diſcipli<g ref="char:EOLhyphen"/>ned, all the forces of the Kingdomes of <hi>England</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and Dominion of <hi>Wales,</hi> the Iſles of <hi>Guernſey,</hi> and <hi>Ierſey,</hi> and the Towne of <hi>Barwick</hi> upon <hi>Tweed,</hi> already raiſed both for Sea and Land ſervice, and ſhall from time to time during the ſaid ſpace of twenty years, Ralſe, Levy, Arme, Train, and Diſcipline, or cauſe to be Raiſed,
+<pb n="4" facs="tcp:114053:4"/>
+               <!-- PDF PAGE 100 -->Levied, Armed, Trained, Diſciplined, or any other Forces for Land or Sea ſervice in the Kingdomes, Do<g ref="char:EOLhyphen"/>minions, and places aforeſaid, as in their judgements they ſhall from time to time during the ſaid ſpace of twenty yeares thinke fit, and appoint; and neither the King, his Heires, or Succeſſors, nor any other but ſuch as ſhall Act by the Authority or approbation of the ſaid Lords and Commons, ſhall during the ſaid ſpace of twenty yeares, exerciſe any of the powers aforeſaid.</p>
+            <p>And if any Perſon ſhall be gathered or Aſſembled to<g ref="char:EOLhyphen"/>gether in warlike manner, or otherwiſe to the number of 30 perſons, and ſhall not forthwith disband themſelves being required thereto by the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons, or any Command from them, or any of them, eſ<g ref="char:EOLhyphen"/>pecially. Authoriſed for that purpoſe: then ſuch perſon and perſons not ſo disbanding themſelves, ſhall be guil<g ref="char:EOLhyphen"/>ty and incurre the paines of High Treaſon, being firſt declared guilty of ſuch offence, by the ſaid Lords and Commons; any Commiſſion under the Great Seal or o<g ref="char:EOLhyphen"/>ther warrant to the contrary notwithſtanding.</p>
+            <p>That <hi>Algernon</hi> Earle of <hi>Northumberland, Iohn</hi> Earle <hi>Rutland, Philip</hi> Earle of <hi>Pembroke</hi> and <hi>Mountgomery, Thenphilus</hi> Earle of <hi>Lincolne, Iames</hi> Earle of <hi>Suffolk, Ro<g ref="char:EOLhyphen"/>bert</hi> Earle of <hi>Warwick, Edward</hi> Earle of <hi>Mancheſter, Hen<g ref="char:EOLhyphen"/>ry</hi> Earle of <hi>Stanford, Francis</hi> Lord <hi>Dacres, Philip</hi> Lord <hi>Wharton, Francis</hi> Lord <hi>Willoughby, Dualy</hi> Lord <hi>North, Iohn</hi> Lord <hi>Hunſdon, William</hi> Lord <hi>Gray, Edward</hi> Lord <hi>Howard</hi> of <hi>Eſtrisk, Thomas</hi> Lord <hi>Bruce, Ferdinando</hi> Lord <hi>Fairefax,</hi> Mr. <hi>Nathaniel Fients,</hi> Sir <hi>Philip Stapil<g ref="char:EOLhyphen"/>ton,</hi>
+               <pb n="5" facs="tcp:114053:4"/>
+               <!-- PDF PAGE 100 -->Sir <hi>Henry Vane</hi> ſenior, Maſter <hi>William Pierpoint,</hi> Sir <hi>Edward Aiſcough,</hi> Sir <hi>William Strickland,</hi> Sir <hi>Arthur Heſilrig,</hi> Sir <hi>Iohn Fennick,</hi> Sir <hi>William Brereton,</hi> Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Widdrinton,</hi> Maſter <hi>Iohn Toll,</hi> Maſter <hi>Gilbert Milling<g ref="char:EOLhyphen"/>ton,</hi> Sir <hi>William Conſtable,</hi> Sir <hi>Iohn Wray,</hi> Sir <hi>Henry Vane</hi> junior, Maſter <hi>Henry Darley, Oliver</hi> Saint <hi>Iohn</hi> Eſquire, His Majeſties Solicitor Generall, Maſter <hi>Alexander Rig<g ref="char:EOLhyphen"/>by,</hi> Maſter <hi>Cornelus Holland,</hi> Maſter <hi>Samuel Vaſſel,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Peregrin Pelham, Iohn Glyn</hi> Eſquire, Recorder of <hi>London,</hi> Maſter <hi>Henry Marten,</hi> Maſter Alderman <hi>Hoyle,</hi> Maſter <hi>Iohn Blakiſton,</hi> Maſter Serjeant <hi>Wilde,</hi> Maſter <hi>Richard Barwis,</hi> Sir <hi>Anthony Irby,</hi> Maſter <hi>Aſhurſt,</hi> Maſter <hi>Bellingham,</hi> and Maſter <hi>Tolſon;</hi> Members of both Houſes of the Parliament of <hi>England,</hi> ſhall be the Commiſſio<g ref="char:EOLhyphen"/>oners for the Kingdome of <hi>England</hi> for conſervation of the Peace between the two Kingdoms to act according to the Powers in that behalfe expreſt in the Articles of the large Treaty, and not otherwiſe.</p>
+            <p>That by Act of Parliament, all Peers made ſince the day, that <hi>Edward</hi> Lord <hi>Littleton,</hi> then Lord Keeper of the great Seale, was ſerruptitionſly conveyed away from the Parliament; being the 21. day of <hi>May,</hi> 1642: And who ſhall be hereafter made, ſhall not fit or vote in the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> without conſent of both Houſes of Parliament: ſince the 20 of May 1642. being the day that both Houſes declared: That the King ſeduced by e<g ref="char:EOLhyphen"/>vill counſell, intended to raiſe War againſt the Parlia<g ref="char:EOLhyphen"/>ment, be declared Null and Void.</p>
+            <p>
+               <pb n="6" facs="tcp:114053:5"/>
+               <!-- PDF PAGE 101 -->
+That the late Members, or any who pretended them<g ref="char:EOLhyphen"/>ſelves late Members of either Houſe of Parliament, who have not only deſerted the Parliament, but have alſo ſate in the unlawfull Aſſembly at <hi>Oxford,</hi> called or pre<g ref="char:EOLhyphen"/>rended by ſome to be a Parliament, and Voted both Kingdomes Traytours, and have not voluntarily ren<g ref="char:EOLhyphen"/>dred themſelves before the laſt of October, 1644. be re<g ref="char:EOLhyphen"/>mooved from His Majeſties Counſells, and be reſtrai<g ref="char:EOLhyphen"/>ned from comming within the Verge of the Court. And that they may not without advice and conſent of both Kingdomes, beare any Office, or have any imploy<g ref="char:EOLhyphen"/>ment concerning the State or Common-Wealth: And in caſe any of them ſhall offend therein, to bee guilty of high Treaſon, and incapable of any Pardon by his Majeſty, and their eſtates to be diſpoſed as both Houſes of Parliament in <hi>England,</hi> or the Eſtates of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Scotland</hi> reſpectively, ſhall thinke fit.</p>
+            <p>That two full parts in three, to be divided of all the Eſtates of the Members of either Houſe of Parliament, who have not only deſerted the Parliament, but have al<g ref="char:EOLhyphen"/>ſo Voted both Kingdomes Traytors, and have not ren<g ref="char:EOLhyphen"/>dred themſelves before the firſt of December 1645. ſhall be taken and employed for the paiment of the pub<g ref="char:EOLhyphen"/>lique debts and damages of the Kingdome.</p>
+            <p>Theſe Perſons of all others, to befree of all perſonall cenſure, notwithſtanding any Act, or thing done in, or concerning this War, they taking the Covenant.</p>
+            <p>
+               <pb n="7" facs="tcp:114053:5"/>
+               <!-- PDF PAGE 101 -->
+That the Perſons, and Eſtates of all com<g ref="char:EOLhyphen"/>mon Souldiers, and others of the Kingdome of <hi>England,</hi> who in Lands or Goods be not worth two hundred pounds ſterling: And the Per<g ref="char:EOLhyphen"/>ſons and Eſtates of all common Souldiers and others, of the Kingdome of <hi>Scotland,</hi> who in Lands or Goods bee nor worth one hundred pounds ſterling, be at liberty and diſcharged.</p>
+            <p>That an Act of Parliament be paſſed, to de<g ref="char:EOLhyphen"/>clare and make voyd the ceſſation of <hi>Ireland,</hi> and all treaties &amp; concluſions of Peace, or any Articles thereupon with the Rebels, without conſent of both Houſes of Parliament. And to ſettle the proſecution of the Warre of <hi>Ireland</hi> in both Houſes of the Parliament of <hi>England,</hi> to be managed by them; and the King to aſſiſt, and to do no act to diſcountenance or moleſt them therein.</p>
+            <p>That Reformation of Religion according to the Covenant, be ſerled in the Kingdome of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> by Act of Parliament, in ſuch maner as both Houſes of the Parliament of <hi>England</hi> have agreed or ſhall agree upon, after conſultation had with the Aſſembly of Divines heere.</p>
+            <p>
+               <pb n="8" facs="tcp:114053:6"/>
+               <!-- PDF PAGE 102 -->
+That no Citizen of the City of <hi>London,</hi> nor any of the Forces of the ſaid City, ſhalbe drawn forth or compelled to goe out of the ſayd City or Liberties thereof, for military ſervice, with<g ref="char:EOLhyphen"/>out their owne free conſent.</p>
+            <p>That an Act be paſſed for the granting and confirming of the Charters, Cuſtomes, Liber<g ref="char:EOLhyphen"/>ties, and Franchiſes of the City of <hi>London,</hi> not<g ref="char:EOLhyphen"/>withſtanding any Nonuſer, Miſuſer, or Abuſer.</p>
+            <p>That all grants of Offices, Lands, Tenements or Hereditaments made, or paſſed under the great Seale of <hi>Ireland,</hi> unto any perſon or per<g ref="char:EOLhyphen"/>ſons, Bodies politique or Corporate, ſince the ceſſation made in <hi>Ireland,</hi> the 15 day of Septem<g ref="char:EOLhyphen"/>ber 1643, ſhall be Null, and void, And that all Honours and Titles conferred upon any Perſon or Perſons in the ſaid Kingdome of <hi>Ireland,</hi> ſince the ſaid Ceſſation, ſhall be null and voyd.</p>
+            <p>That by Act of Parliament in each Kingdome reſpectively, all Oathes, Declarations, and Pro<g ref="char:EOLhyphen"/>clamations heretoſore had, or hereafter to be had againſt both or either of the Houſes of Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> the Parliament of the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> and the late Convention of E<g ref="char:EOLhyphen"/>ſtates
+<pb n="9" facs="tcp:114053:6"/>
+               <!-- PDF PAGE 102 -->in <hi>Scotland,</hi> or Committees flowing from the Parliament or Convention in <hi>Scotland,</hi> or their Ordinances and proceedings; or againſt any for adhering unto them; or for doing or executing any Office, Place, or Charge, by any Authority derived from them. And all Iudg<g ref="char:EOLhyphen"/>ments, Indictments, Outlawries, Attainers, and Inquiſitions, in any of the ſaid Cauſes; and all Graunts thereupon made or had, or to be made or had, be declared Null, ſuppreſſed, and forbidden. And that this be publiquely inti<g ref="char:EOLhyphen"/>mated in all Pariſh Churches within His Ma<g ref="char:EOLhyphen"/>jeſties Dominions, and all other Places need<g ref="char:EOLhyphen"/>full.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
